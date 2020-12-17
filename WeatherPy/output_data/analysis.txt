@@ -1,0 +1,6 @@
+WeatherPy Observations:
+
+1) There doesn't seem to be much correlation between latitude and wind speed or cloudiness.
+2) There seem to be higher wind speed recordings toward each of the  northern and southern poles.
+3) Most of the cloudiness recordings seem to be at the to extremes, 0% and 100%, regardless of latitude.
+4) Wind speeds seem to be low across the globe.
